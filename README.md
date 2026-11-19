@@ -1,16 +1,14 @@
 # ☕ Coffee Machine API
 
-## 👩‍💻 Informations sur le projet
+Projet Java réalisé dans le cadre du cursus ingénieur à l'EPITA.
 
-| | |
-|---|---|
-| **Développé par** | Karen Kassab |
-| **École** | EPITA |
-| **Promotion** | APPING2 |
-| **Groupe** | D1 |
-| **Année scolaire** | 2026–2027 |
+## 🎓 Présentation
 
-## 🛠️ Technologies
+- **Auteure :** Karen Kassab
+- **Formation :** APPING2
+- **Groupe :** D1
+- **Année académique :** 2026/2027
 
-- Java
-- Maven
+## ⚙️ Environnement technique
+
+Java · Maven · IntelliJ IDEA
